@@ -96,7 +96,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikeledidoe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeledidoe&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeledidoe&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" height="170"/> -->\
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikeledidoe&count_private=true&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+
 </p>
 
 <h3 align="center">💡 Core Stack (What I Actually Use)</h3>
